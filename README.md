@@ -1,1 +1,4 @@
-# tomosuzu's page
+# Practices
+
+## URL
+https://tomosuzu.github.io/practices/
