@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'tomosuzu\'s page',
-  description: 'tomosuzu\'s page',
+  title: 'practices',
+  description: 'to introduce practices',
   dest: 'docs/',
   base: '/practices/',
   themeConfig: {
