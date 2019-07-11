@@ -9,6 +9,7 @@ branches:
 script:
   - echo "Deploy"
   - yarn build
+  - git checkout docs/CNAME
 
 deploy:
   provider: pages
