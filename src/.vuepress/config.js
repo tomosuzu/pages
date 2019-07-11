@@ -2,7 +2,7 @@ module.exports = {
   title: 'practices',
   description: 'to introduce practices',
   dest: 'docs/',
-  base: '/practices/',
+  base: '/',
   themeConfig: {
     locales: {
       '/': {
