@@ -18,6 +18,8 @@ module.exports = {
         'retrospectives',
         'visualisation-of-work',
         'team-sentiment',
+        'impact-mapping',
+        'iteration-planning',
         'test-driven-development'
       ]
     }
