@@ -21,6 +21,11 @@ module.exports = {
         'impact-mapping',
         'iteration-planning',
         'test-driven-development'
+      ],
+      '/technology/': [
+        '',
+        'cicd',
+        'log'
       ]
     }
   },
@@ -28,6 +33,6 @@ module.exports = {
     ['@vuepress/google-analytics', {
       ga: 'UA-37628540-15'
     }],
-    ['@vuepress/last-updated'] 
+    ['@vuepress/last-updated']
   ]
 }
