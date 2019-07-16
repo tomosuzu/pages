@@ -8,11 +8,7 @@ module.exports = [
     link: '/agile/',
   },
   {
-    text: '技術',
-    link: '/technology/',
-  },
-  {
-    text: 'アンケート',
+    text: 'フィードバック',
     link: 'https://forms.gle/TKUJ2Gs9EoH2jQvp7',
   }
 ]
