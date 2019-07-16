@@ -12,20 +12,7 @@ module.exports = {
     sidebar: {
       '/agile/': [
         '',
-        'social-contract',
-        'pair-programming',
-        'mob-programming',
-        'retrospectives',
-        'visualisation-of-work',
-        'team-sentiment',
-        'impact-mapping',
-        'iteration-planning',
         'test-driven-development'
-      ],
-      '/technology/': [
-        '',
-        'cicd',
-        'log'
       ]
     }
   },
