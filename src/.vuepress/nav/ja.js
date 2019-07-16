@@ -4,7 +4,7 @@ module.exports = [
     link: '/about/',
   },
   {
-    text: 'アジャイル',
+    text: 'プラクティス一覧',
     link: '/agile/',
   },
   {
