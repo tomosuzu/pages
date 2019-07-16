@@ -1,37 +1,50 @@
-# アジャイル
+# プラクティス
 
-## アジャイルとは
-
-
-
-## なぜアジャイルをやるの
+## プラクティスとは
 
 
 
+
+## なぜプラクティスをやるの
+
+
+
+## どうやるの
 
 
 ## プラクティス一覧
-* [社会契約/social contract](/agile/social-contract)
-* [ペアプログラミング/pair programming](/agile/pair-programming)
-* [モブプログラミング/mob programming](/agile/mob-programming)
-* [ふりかえり/retrospectives](/agile/retrospectives)
-* [作業の可視化/visualizing work](/agile/visualisation-of-work)
-* [チーム感情の評価/assessing team sentiment](/agile/team-sentiment)
-* [インパクトマッピング/impact mapping](/agile/impact-mapping)
-* [スプリントプランニング/sprint planning](/agile/iteration-planning)
+
+### Discovery Loop
+* 共感マッピング/empathy mapping
+* バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
+* インパクトマッピング/impact mapping
+* イベントストーミング/event storming
+* ユーザーストーリーマッピング/user story mapping
+
+### Options / Pivots
+* バックログ・リファインメント/backlog refinement
+
+### Delivery Loop
+* スプリントプランニング/sprint planning
 * 毎日スタンドアップ・ミーティング/daily standup
 * ショーケース/showcase
-* バックログ・リファインメント/backlog refinement
-* バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
+* ふりかえり/retrospectives
+
+### Foundation
+* テスト駆動開発/test driven development
+* ペアプログラミング/pair programming
+* モブプログラミング/mob programming
+* チーム感情の評価/assessing team sentiment
+* 作業の可視化/visualizing work
+* 社会契約/social contract
 * 継続的インテグレーション/continuous integration
 * 継続的デプロイメント/continuous deployment
 * 継続的デリバリ/continuous delivery
-* イベントストーミング/event storming
-* ユーザーストーリーマッピング/user story mapping
-* 共感マッピング/empathy mapping
-* [テスト駆動開発/test driven development](/agile/test-driven-development)
 
+# 参考資料
+* [The Open Practice Library](https://openpracticelibrary.com/)
 
+# さいごに
 
-# 開発におけるアンチパターン
-* [スケールドメテオフォール開発](https://hogepiyohoo.hatenablog.com/entry/2019/07/07/003625)
+文章の改善のため、フィードバックがありましたら、下記からお願いいたします。
+[こちら](https://forms.gle/TKUJ2Gs9EoH2jQvp7)

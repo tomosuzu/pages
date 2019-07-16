@@ -10,10 +10,6 @@ module.exports = {
       }
     },
     sidebar: {
-      '/agile/': [
-        '',
-        'test-driven-development'
-      ]
     }
   },
   plugins: [
