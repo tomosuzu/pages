@@ -1,27 +1,44 @@
-# プラクティス
+# プラクティス一覧
 
 ## プラクティスとは
 
+日本語ではあまり馴染みのない「プラクティス」という言葉ですが、
 
+「習慣」ととらえていただくのが一番わかりやすいかと思います。
 
-
-## なぜプラクティスをやるの
-
-
-
-## どうやるの
-
+課題を解決するために最適化された組織に必要な「習慣」が「プラクティス」です。
 
 ## プラクティス一覧
 
-### Discovery Loop
+プラクティス一覧は[The Open Practice Library](https://openpracticelibrary.com/)を参考にして、作成しました。
+
+このサイトは日々の新しいアイディアや経験から作られたプラクティスを共有しているサイトです。
+
+ここにあるすべてのプラクティスは[Outcome Delivery](https://www.mobiusloop.com/)フレームワークと呼ばれる手法を基にして、分類分けをしています。
+
+Outcome Deliveryフレームワークは三つに分類されます。
+
+* Discovery　：　結果を構想する
+* Options　：　方法を確認する
+* Delivery　：　テストのためにアイディアを実装し、学習する
+
+これらに加え、フレームワークの基盤となる「Foundation」があり、文化と協同、エンジニアリングについてのプラクティスでサポートしています。
+
+### Discovery
+Discoveryは現状のまま始めます。
+Discoveryのプラクティスを行うことで、
+「なぜこれをするのか？」「解決したい問題は何か？」
+「それは誰のためか？」「結果をどうやって計測するのか？」
+といった質問に答えることができます。
+
 * 共感マッピング/empathy mapping
 * バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
 * インパクトマッピング/impact mapping
 * イベントストーミング/event storming
 * ユーザーストーリーマッピング/user story mapping
 
-### Options / Pivots
+### Options
+
 * バックログ・リファインメント/backlog refinement
 
 ### Delivery Loop
