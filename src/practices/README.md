@@ -8,7 +8,7 @@
 
 課題を解決するために最適化された組織に必要な様々な「習慣」を「プラクティス」としています。
 
-## プラクティス一覧
+## プラクティス一覧とは
 
 プラクティス一覧は「[The Open Practice Library](https://openpracticelibrary.com/)」を参考にして、作成しました。
 
@@ -16,7 +16,7 @@
 
 ここにあるすべてのプラクティスは「[Outcome Delivery](https://www.mobiusloop.com/)フレームワーク」と呼ばれる考え方を基にして、分類分けをしています。
 
-### Outcome Deliveryフレームワークとは
+## Outcome Deliveryフレームワークとは
 
 ![Image of Mobius Loop](/Mobius.svg)
 > 参照元：[The Open Practice Library](https://openpracticelibrary.com/)
@@ -31,6 +31,8 @@
 これらに加え、フレームワークの基盤となる「Foundation」があり、
 
 文化と協同、エンジニアリングについてのプラクティスで上記三つの段階をサポートしています。
+
+## プラクティス一覧
 
 ### Discoveryループ
 
