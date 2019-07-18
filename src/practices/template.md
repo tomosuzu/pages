@@ -12,6 +12,4 @@
 
 ## さいごに
 
-文章の改善のため、アンケートへのご協力をお願いいたします。
-
-[こちら](https://forms.gle/TKUJ2Gs9EoH2jQvp7)
+文章の改善のため、フィードバックがありましたら、[こちら](https://forms.gle/TKUJ2Gs9EoH2jQvp7)からお願いいたします。
