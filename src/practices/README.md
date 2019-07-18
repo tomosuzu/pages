@@ -10,7 +10,7 @@
 
 ## プラクティス一覧とは
 
-プラクティス一覧は「[The Open Practice Library](https://openpracticelibrary.com/)」を参考にして、作成しました。
+プラクティス一覧は「[The Open Practice Library](https://openpracticelibrary.com/)」を参考にして作成しました。
 
 このサイトは日々の新しいアイディアや経験から作られたプラクティスを共有しているサイトです。
 
@@ -21,16 +21,15 @@
 ![Image of Mobius Loop](/Mobius.svg)
 > 参照元：[The Open Practice Library](https://openpracticelibrary.com/)
 
+上の図で表されるように、[Outcome Delivery](https://www.mobiusloop.com/)フレームワークは三つにフェーズ分けをしています。
 
-上の図で表されるように、[Outcome Delivery](https://www.mobiusloop.com/)フレームワークは三つに段階分けをしています。
-
-* Discoveryループ : 成果を構想する段階
-* Options Pivot  : 方法を確認・決定する段階
-* Deliveryループ  : テストのためにアイディアを実装し、学習する段階
+* Discoveryループ : 成果を構想するフェーズ
+* Options Pivot  : 方法を確認・決定するフェーズ
+* Deliveryループ  : テストのためにアイディアを実装し、学習するフェーズ
 
 これらに加え、フレームワークの基盤となる「Foundation」があり、
 
-文化と協同、エンジニアリングについてのプラクティスで上記三つの段階をサポートしています。
+文化と協同、エンジニアリングについてのプラクティスで上記三つのフェーズをサポートしています。
 
 ## プラクティス一覧
 
@@ -38,7 +37,7 @@
 
 「Discovery」は「発見」という意味です。
 
-この段階では課題がどこにあるのか、誰の課題なのか、なぜ必要なのかなどを発見していきます。
+このフェーズでは課題がどこにあるのか、誰の課題なのか、なぜ必要なのかなどを発見していきます。
 
 ループとなっているのは、何度も何度も繰り返し行うため、ループとなっています。
 
@@ -58,7 +57,7 @@
 
 「選択肢」を改めて調べて、
 
-必要があれば現状から方向転換することを決定する段階です。
+必要があれば現状から方向転換することを決定するフェーズです。
 
 * バックログ・リファインメント/backlog refinement
 
@@ -77,7 +76,9 @@
 
 ### Foundation
 
-「Foundation」は、上記三つの段階を支えるために
+「Foundation」は、「基盤」という意味です。
+
+上記三つのフェーズを支えるために
 
 チーム文化を作る
 
@@ -87,7 +88,7 @@
 
 といったような
 
-「Discovery」や「Delivery」のループを円滑に行うためのプラクティスが用意されています。
+「Discovery」や「Delivery」のループを円滑に行うための支えになるようなプラクティスが用意されています。
 
 「Foundation」のプラクティスにより、
 
@@ -105,6 +106,7 @@
 
 ## 参考資料
 * [The Open Practice Library](https://openpracticelibrary.com/)
+* [Outcome Delivery](https://www.mobiusloop.com/)
 
 ## さいごに
 
