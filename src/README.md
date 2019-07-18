@@ -8,7 +8,7 @@
 
 そちらをご覧ください。
 
-# Contents
+# contents
 
 * [プラクティス一覧](/practices)
 
