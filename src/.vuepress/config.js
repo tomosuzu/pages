@@ -10,6 +10,16 @@ module.exports = {
       }
     },
     sidebar: {
+      '/practices/' : [
+        {
+          title: 'プラクティス一覧',
+          collapsable: true,
+          sidebarDepth: 2,
+          children: [
+            '/practices/'
+          ]
+        }
+      ]
     }
   },
   plugins: [

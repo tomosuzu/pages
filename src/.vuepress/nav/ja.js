@@ -5,7 +5,7 @@ module.exports = [
   },
   {
     text: 'プラクティス一覧',
-    link: '/agile/',
+    link: '/practices/',
   },
   {
     text: 'フィードバック',
