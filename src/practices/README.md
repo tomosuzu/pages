@@ -21,7 +21,7 @@
 ![Image of Mobius Loop](/Mobius.svg)
 > 参照元：[The Open Practice Library](https://openpracticelibrary.com/)
 
-上の図で表されるように、[Outcome Delivery](https://www.mobiusloop.com/)フレームワークは三つにフェーズ分けをしています。
+上の図で表されるように、[Outcome Delivery](https://www.mobiusloop.com/)フレームワークは三つのフェーズに別れています。
 
 * Discoveryループ : 成果を構想するフェーズ
 * Options Pivot  : 方法を確認・決定するフェーズ
