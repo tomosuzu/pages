@@ -18,6 +18,14 @@ module.exports = {
           children: [
             '/practices/'
           ]
+        },
+        {
+          title: 'Foundation',
+          collapsable: true,
+          sidebarDepth: 2,
+          children: [
+            'pair-programming'
+          ]
         }
       ]
     }
