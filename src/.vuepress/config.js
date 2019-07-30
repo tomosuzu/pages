@@ -13,7 +13,7 @@ module.exports = {
       '/practices/' : [
         {
           title: 'プラクティス一覧',
-          collapsable: true,
+          collapsable: false,
           sidebarDepth: 2,
           children: [
             '/practices/'
@@ -21,10 +21,11 @@ module.exports = {
         },
         {
           title: 'Foundation',
-          collapsable: true,
+          collapsable: false,
           sidebarDepth: 2,
           children: [
-            'pair-programming'
+            'pair-programming',
+            'test-driven-development'
           ]
         }
       ]
