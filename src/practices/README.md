@@ -94,7 +94,7 @@
 
 チームは持続可能に継続的なDeliveryを行うことができるようになります。
 
-* テスト駆動開発/test driven development
+* [テスト駆動開発/test driven development](/practices/test-driven-development)
 * [ペアプログラミング/pair programming](/practices/pair-programming)
 * モブプログラミング/mob programming
 * チーム感情の評価/assessing team sentiment
