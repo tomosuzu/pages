@@ -6,6 +6,8 @@
 
 ソフトウェアエンジニア、DevOps/Agileコンサルタントをしています。
 
+twitter: [@tomoya_su](https://twitter.com/tomoya_su)
+
 ## 当サイトについて
 
 当サイトは、tomosuzuの学びや活動などを一覧できるサイトです。
