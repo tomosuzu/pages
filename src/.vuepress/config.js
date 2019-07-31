@@ -25,7 +25,8 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             'pair-programming',
-            'test-driven-development'
+            'test-driven-development',
+            'social-contract'
           ]
         }
       ]
