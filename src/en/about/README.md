@@ -1,14 +1,9 @@
-# 当サイトについて
+# about
 
-## 運営者
+## Author
+I'm tomosuzu, Software Engineer and DevOps/Agile Consultant.
 
-当サイトの運営者はtomosuzuです。
-
-ソフトウェアエンジニア、DevOps/Agileコンサルタントをしています。
-
-twitter: [@tomoya_su](https://twitter.com/tomoya_su)
-
-## 当サイトについて
+## about this site
 
 当サイトは、tomosuzuの学びや活動などを一覧できるサイトです。
 

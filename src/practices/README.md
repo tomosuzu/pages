@@ -99,10 +99,12 @@
 * モブプログラミング/mob programming
 * チーム感情の評価/assessing team sentiment
 * 作業の可視化/visualizing work
-* 社会契約/social contract
+* [社会契約/social contract](/practices/social-contract)
 * 継続的インテグレーション/continuous integration
 * 継続的デプロイメント/continuous deployment
 * 継続的デリバリ/continuous delivery
+* バーンダウン/burndown
+* コンテナ/containers
 
 ## 参考資料
 * [The Open Practice Library](https://openpracticelibrary.com/)
