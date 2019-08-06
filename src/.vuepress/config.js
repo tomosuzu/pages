@@ -26,7 +26,8 @@ module.exports = {
           children: [
             'pair-programming',
             'test-driven-development',
-            'social-contract'
+            'social-contract',
+            'team-sentiment'
           ]
         }
       ]
