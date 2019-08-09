@@ -20,6 +20,14 @@ module.exports = {
           ]
         },
         {
+          title: 'Delivery',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            'retrospectives'
+          ]
+        },
+        {
           title: 'Foundation',
           collapsable: false,
           sidebarDepth: 2,
