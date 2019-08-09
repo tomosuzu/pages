@@ -72,7 +72,7 @@
 * スプリントプランニング/sprint planning
 * 毎日スタンドアップ・ミーティング/daily standup
 * ショーケース/showcase
-* ふりかえり/retrospectives
+* [ふりかえり/retrospectives](/practices/retrospectives)
 
 ### Foundation
 
