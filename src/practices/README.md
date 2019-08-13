@@ -69,7 +69,7 @@
 
 顧客やステークホルダーにフィードバックをもらい、学習していきます。
 
-* スプリントプランニング/sprint planning
+* [スプリントプランニング/sprint planning](/practices/iteration-planning)
 * 毎日スタンドアップ・ミーティング/daily standup
 * ショーケース/showcase
 * [ふりかえり/retrospectives](/practices/retrospectives)
