@@ -54,7 +54,7 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 2,
           children: [
-            'JobToBeDone1'
+            'JobsToBeDone1'
           ]
         }
       ]
