@@ -86,6 +86,7 @@
 * 変更履歴がおえない、もしくは工夫が必要
 
 作成例：
+
 <img src="/impact-mapping.jpg" alt="Image of Impact Mapping" width="400"/>
 
 ## 注意点
