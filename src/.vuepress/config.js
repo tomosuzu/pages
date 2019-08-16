@@ -20,6 +20,14 @@ module.exports = {
           ]
         },
         {
+          title: 'Discovery',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            'impact-mapping'
+          ]
+        },
+        {
           title: 'Delivery',
           collapsable: false,
           sidebarDepth: 2,
