@@ -43,7 +43,7 @@
 
 * 共感マッピング/empathy mapping
 * バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
-* インパクトマッピング/impact mapping
+* [インパクトマッピング/impact mapping](/practices/impact-mapping)
 * イベントストーミング/event storming
 * ユーザーストーリーマッピング/user story mapping
 
