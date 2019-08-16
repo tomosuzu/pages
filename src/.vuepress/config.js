@@ -47,6 +47,16 @@ module.exports = {
             'team-sentiment'
           ]
         }
+      ],
+      '/blog/' : [
+        {
+          title: '201908',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            'JobToBeDone1'
+          ]
+        }
       ]
     }
   },
