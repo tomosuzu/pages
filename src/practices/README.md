@@ -70,7 +70,7 @@
 顧客やステークホルダーにフィードバックをもらい、学習していきます。
 
 * [スプリント（イテレーション）計画/sprint planning](/practices/iteration-planning)
-* 毎日スタンドアップ・ミーティング/daily standup
+* [毎日スタンドアップ・ミーティング/daily standup](/practices/daily-standup)
 * ショーケース/showcase
 * [ふりかえり/retrospectives](/practices/retrospectives)
 
