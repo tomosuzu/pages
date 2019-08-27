@@ -24,7 +24,8 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 2,
           children: [
-            'impact-mapping'
+            'impact-mapping',
+            'empathy-mapping'
           ]
         },
         {
