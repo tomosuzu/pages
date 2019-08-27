@@ -41,7 +41,7 @@
 
 ループとなっているのは、何度も何度も繰り返し行うため、ループとなっています。
 
-* 共感マッピング/empathy mapping
+* [共感マッピング/empathy mapping](/practices/empathy-mapping)
 * バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
 * [インパクトマッピング/impact mapping](/practices/impact-mapping)
 * イベントストーミング/event storming
