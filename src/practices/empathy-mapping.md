@@ -32,14 +32,14 @@
 
 ## どうやっておこなうか
 
-必要なもの：
+### 必要なもの
 
 * ホワイトボード
 * ホワイトボードマーカー
 * 付箋
 * マーカー
 
-やり方：
+### やり方
 
 <img src="/empathy-mapping.jpg" alt="Image of Empathy Mapping" width="400"/>
 
