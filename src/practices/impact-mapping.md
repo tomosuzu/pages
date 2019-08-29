@@ -28,7 +28,7 @@
 
 参加人数が多くなりすぎないように注意しましょう。
 
-必要なもの：
+### 必要なもの
 
 * [coggle](https://coggle.it/)
 
@@ -39,7 +39,7 @@
 * 付箋
 * 付箋用のマーカー
 
-やり方：
+### やり方
 
 もし実施される場合はできれば参考図書（[IMPACT MAPPING　インパクトのあるソフトウェアを作る](https://www.amazon.co.jp/IMPACT-MAPPING-%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AE%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E4%BD%9C%E3%82%8B-%E3%82%B4%E3%82%A4%E3%82%B3%E3%83%BB%E3%82%A2%E3%82%B8%E3%83%83%E3%83%81-Gojko-Adzic-ebook/dp/B00HFPZ0EO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)）を関係者全員で読まれることをおすすめします。
 
