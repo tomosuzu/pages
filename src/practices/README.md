@@ -45,7 +45,7 @@
 * バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
 * [インパクトマッピング/impact mapping](/practices/impact-mapping)
 * イベントストーミング/event storming
-* ユーザーストーリーマッピング/user story mapping
+* [ユーザーストーリーマッピング/user story mapping](/practices/user-story-mapping)
 
 ### Options Pivot
 
