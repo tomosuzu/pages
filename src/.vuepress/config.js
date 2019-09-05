@@ -25,6 +25,7 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             'impact-mapping',
+            'user-story-mapping',
             'empathy-mapping'
           ]
         },
