@@ -26,6 +26,7 @@ module.exports = {
           children: [
             'impact-mapping',
             'user-story-mapping',
+            'value-stream-process-mapping',
             'empathy-mapping'
           ]
         },

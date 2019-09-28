@@ -42,7 +42,7 @@
 ループとなっているのは、何度も何度も繰り返し行うため、ループとなっています。
 
 * [共感マッピング/empathy mapping](/practices/empathy-mapping)
-* バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping
+* [バリューストリーム・マッピングおよびプロセスマッピング/Value Stream & Process Mapping](/practices/value-stream-process-mapping)
 * [インパクトマッピング/impact mapping](/practices/impact-mapping)
 * イベントストーミング/event storming
 * [ユーザーストーリーマッピング/user story mapping](/practices/user-story-mapping)
