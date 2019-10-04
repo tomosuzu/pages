@@ -64,6 +64,22 @@
 
 そのためにも、自分の抱えているタスクや問題は包み隠さずオープンにしましょう。
 
+## 議論はなるべくしないようにしよう
+
+議論に発展しそうな内容が出た場合は
+
+パーキングロットにおいておくか、
+
+大切なことだった場合は別で時間をとって議論しましょう。
+
+スタンドアップ・ミーティングでは**とりあえず課題（現象）を出すこと**が大切です。
+
+出てきた課題は、メモしておき、
+
+[ふりかえり/retrospectives](/practices/retrospectives)などの時に
+
+原因などを追求しましょう。
+
 ## 参考資料
 * [Daily Standup](https://openpracticelibrary.com/practice/daily-standup/)
 * [スクラム　仕事が４倍速くなる“世界標準”のチーム戦術](https://www.amazon.co.jp/dp/B010COOG9O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
