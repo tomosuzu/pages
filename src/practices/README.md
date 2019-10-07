@@ -96,7 +96,7 @@
 
 * [テスト駆動開発/test driven development](/practices/test-driven-development)
 * [ペアプログラミング/pair programming](/practices/pair-programming)
-* モブプログラミング/mob programming
+* [モブプログラミング/mob programming](/practices/mob-programming)
 * [チーム感情の評価/assessing team sentiment](/practices/team-sentiment)
 * 作業の可視化/visualizing work
 * [社会契約/social contract](/practices/social-contract)
