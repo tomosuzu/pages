@@ -355,6 +355,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.8.0"
 
+
 "@babel/plugin-syntax-decorators@^7.8.3":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-decorators/-/plugin-syntax-decorators-7.8.3.tgz#8d2c15a9f1af624b0025f961682a9d53d3001bda"

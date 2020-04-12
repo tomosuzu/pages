@@ -31,6 +31,14 @@ module.exports = {
           ]
         },
         {
+          title: 'Options/Pivot',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            'backlog-refinement'
+          ]
+        },
+        {
           title: 'Delivery',
           collapsable: false,
           sidebarDepth: 2,
