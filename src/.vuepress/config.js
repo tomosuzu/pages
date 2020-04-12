@@ -57,8 +57,7 @@ module.exports = {
             'mob-programming',
             'test-driven-development',
             'social-contract',
-            'team-sentiment',
-            'continuous-integration'
+            'team-sentiment'
           ]
         }
       ],
