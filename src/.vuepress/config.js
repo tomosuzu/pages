@@ -4,8 +4,7 @@ module.exports = {
   head: [
     ['script', {
       'data-ad-client': 'ca-pub-5171150572482180',
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-      async: true
+      'async src': "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     }],
   ],
   dest: 'docs/',
