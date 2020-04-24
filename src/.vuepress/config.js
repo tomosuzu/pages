@@ -4,8 +4,7 @@ module.exports = {
   head: [
     ['script', {
       'data-ad-client': 'ca-pub-5171150572482180',
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-      async: true
+      'async src': "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     }],
   ],
   dest: 'docs/',
@@ -64,7 +63,8 @@ module.exports = {
             'mob-programming',
             'test-driven-development',
             'social-contract',
-            'team-sentiment'
+            'team-sentiment',
+            'continuous-integration'
           ]
         }
       ],
@@ -75,6 +75,24 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             'JobsToBeDone1'
+          ]
+        }
+      ],
+      '/training/' : [
+        {
+          title: '筋トレ',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            '/training/'
+          ]
+        },
+        {
+          title: '過去の記録',
+          collapsable: false,
+          sidebarDepth: 0,
+          children: [
+            '202004'
           ]
         }
       ]
