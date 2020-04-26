@@ -12,7 +12,7 @@ module.exports = [
     link: '/blog/',
   },
   {
-    text: 'フィードバック',
+    text: '問い合わせ',
     link: 'https://forms.gle/TKUJ2Gs9EoH2jQvp7',
   }
 ]
