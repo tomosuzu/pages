@@ -1,12 +1,6 @@
 module.exports = {
   title: 'tomosuzu\'s pages',
   description: 'produced by tomosuzu',
-  head: [
-    ['script', {
-      'data-ad-client': 'ca-pub-5171150572482180',
-      'async src': "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-    }],
-  ],
   dest: 'docs/',
   base: '/',
   themeConfig: {
