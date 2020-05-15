@@ -1,6 +1,6 @@
 # ジョブ理論に関する考察その１
 
-[ジョブ理論](https://www.amazon.co.jp/dp/B0746JCN8B/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[ジョブ理論](https://amzn.to/2WuXjee)
 という本を読みました。
 
 文量自体は多くないのですが、

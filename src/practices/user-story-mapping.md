@@ -34,7 +34,7 @@
 
 ### やり方
 
-詳しいやり方や注意点などは[ユーザーストーリーマッピング](https://www.amazon.co.jp/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0-Jeff-Patton/dp/4873117321)を読んでいただくことをおすすめしますが、
+詳しいやり方や注意点などは[ユーザーストーリーマッピング](https://amzn.to/3cAwTxc)を読んでいただくことをおすすめしますが、
 
 下記に簡単な手順と例をあげます。
 
@@ -92,7 +92,7 @@
 
 ## 参考資料
 * [User Story Mapping](https://openpracticelibrary.com/practice/user-story-mapping/)
-* [ユーザーストーリーマッピング](https://www.amazon.co.jp/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0-Jeff-Patton/dp/4873117321)
+* [ユーザーストーリーマッピング](https://amzn.to/3cAwTxc)
 
 ## さいごに
 

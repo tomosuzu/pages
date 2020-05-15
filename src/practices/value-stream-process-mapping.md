@@ -117,10 +117,10 @@ ECRSとは下記の英語の頭文字をとったものです。
 
 ## 参考資料
 * [Value Stream & Process Mapping](https://openpracticelibrary.com/practice/vsm-and-mbpm/)
-* [トヨタ生産方式にもとづく「モノ」と「情報」の流れ図で現場の見方を変えよう!!](https://www.amazon.co.jp/gp/product/4526048038/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* [トヨタ生産方式にもとづく「モノ」と「情報」の流れ図で現場の見方を変えよう!!](https://amzn.to/3czV4fo)
 * [App013 ここはあえて紙と](https://www.slideshare.net/TechSummit2016/app013)
 * [Value Stream Mapping (how to)](https://patrickroose.wordpress.com/advisory-community/business-process-value-streams-how-to/)
-* [カイゼンジャーニー](https://www.amazon.co.jp/dp/B078HZKLMB/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [カイゼンジャーニー](https://amzn.to/2Lu1PDB)
 
 ## さいごに
 

@@ -243,7 +243,7 @@ https://twitter.com/tomoya_su/status/1006497186685714432
 
 * [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
 * [mobster](http://mobster.cc/)
-* [Extreme Programming](https://www.amazon.co.jp/dp/B012UWOLOQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Extreme Programming](https://amzn.to/2Ww03rV)
 * [Teddy Bear Effect](http://www.unconsciousagile.com/teddy_bear_effect)
 
 ## さいごに
