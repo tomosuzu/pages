@@ -90,7 +90,7 @@ TDDのサイクルを小さく回す、つまり、
 
 実際に体験してみないと理解しづらいと思いますので
 
-[テスト駆動開発](https://www.amazon.co.jp/dp/B077D2L69C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[テスト駆動開発](https://amzn.to/3czVEd4)
 を写経することをおすすめします。
 
 ## 注意点
@@ -206,7 +206,7 @@ TDDのサイクルを小さく回す、つまり、
 
 ## 参考資料
 
-* [テスト駆動開発](https://www.amazon.co.jp/dp/B077D2L69C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [テスト駆動開発](https://amzn.to/3czVEd4)
 * [TDD: The Bad Parts — Matt Parker](https://www.youtube.com/watch?v=xPL84vvLwXA)
 * [Red-Green-Refactor](https://www.jamesshore.com/Blog/Red-Green-Refactor.html)
 

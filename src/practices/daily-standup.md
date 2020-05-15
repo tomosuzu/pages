@@ -82,7 +82,7 @@
 
 ## 参考資料
 * [Daily Standup](https://openpracticelibrary.com/practice/daily-standup/)
-* [スクラム　仕事が４倍速くなる“世界標準”のチーム戦術](https://www.amazon.co.jp/dp/B010COOG9O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [スクラム　仕事が４倍速くなる“世界標準”のチーム戦術](https://amzn.to/2z1zbqC)
 
 ## さいごに
 
