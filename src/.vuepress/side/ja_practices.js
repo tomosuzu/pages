@@ -46,7 +46,8 @@ module.exports = [
       'test-driven-development',
       'social-contract',
       'team-sentiment',
-      'continuous-integration'
+      'continuous-integration',
+      'continuous-deployment'
     ]
   }
 ]
