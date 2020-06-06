@@ -47,6 +47,7 @@ module.exports = [
       'social-contract',
       'team-sentiment',
       'continuous-integration',
+      'continuous-delivery',
       'continuous-deployment'
     ]
   }
