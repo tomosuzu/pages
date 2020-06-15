@@ -8,7 +8,7 @@ module.exports = [
     link: '/practices/',
   },
   {
-    text: 'ブログ',
+    text: '雑記',
     link: '/blog/',
   },
   {
