@@ -4,6 +4,10 @@ module.exports = [
     link: '/about/',
   },
   {
+    text: 'スクラム',
+    link: '/scrum/',
+  },
+  {
     text: 'プラクティス一覧',
     link: '/practices/',
   },
