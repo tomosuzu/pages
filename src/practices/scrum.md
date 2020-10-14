@@ -50,6 +50,7 @@
 ・POからステークホルダーへの説明がメイン
 ・・
 
+
 * [レトロスペクティブ](/retrospectives)
 * [プランニング#1](/iteration-planning)
 * [プランニング#2](/iteration-planning)
