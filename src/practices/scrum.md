@@ -63,29 +63,29 @@
 
 * スクラムマスター に求められるスキル
 
-* * Situationing
+**Situationing**
 
 見抜かないといけません
 
 電車で誰が一番はじめに席を立ったか　などに取り組むことで鍛えることができます。
 
-* * Teaching
+**Teaching**
 
 相手が行動している
 
-* * Facilitating
+**Facilitating**
 
 会議のファシリテートとは違います。
 
 導いでいく能力です。
 
-* * Mentoring
+**Mentoring**
 
 相手が持っていない選択肢を出して、きめてもらう。
 
 関係性は大事で、どう思われているかで。
 
-* * Coaching
+**Coaching**
 
 相手がゴールを定める。
 
