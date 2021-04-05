@@ -10,7 +10,6 @@ module.exports = {
       }
     },
     sidebar: {
-      '/scrum/'     : require('./side/ja_scrum'),
       '/practices/' : require('./side/ja_practices'),
       '/blog/'      : require('./side/ja_blog'),
       '/training/'  : require('./side/ja_training')
