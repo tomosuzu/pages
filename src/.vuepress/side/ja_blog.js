@@ -4,8 +4,6 @@ module.exports = [
     collapsable: false,
     sidebarDepth: 2,
     children: [
-      '2020/apache-camel',
-      '2020/3scale',
       '2020/数学入門',
       '2020/あつもり',
       '2020/コーチングのすべて'
