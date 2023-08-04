@@ -1,0 +1,47 @@
+<template><div><h1 id="共感マッピング" tabindex="-1"><a class="header-anchor" href="#共感マッピング" aria-hidden="true">#</a> 共感マッピング</h1>
+<p>〜ユーザーを身近にし、認識を共有する〜</p>
+<h2 id="共感マッピングとは" tabindex="-1"><a class="header-anchor" href="#共感マッピングとは" aria-hidden="true">#</a> 共感マッピングとは</h2>
+<p>共感マッピングとは、ユーザーの理解を深め、ユーザー像（ペルソナ）を構築し、視覚化する方法です</p>
+<p>共感マッピングの情報は、</p>
+<p>対象のシステム/アプリケーション/ソリューションの</p>
+<p>影響を受けるエンドユーザーに対するインタビューや観察などから取得します。</p>
+<p>その人が見ている、考えている、やっている、感じているものを</p>
+<p>目に見える図として整理します。</p>
+<h2 id="なぜ共感マッピングを行うか" tabindex="-1"><a class="header-anchor" href="#なぜ共感マッピングを行うか" aria-hidden="true">#</a> なぜ共感マッピングを行うか</h2>
+<p>利害関係者と開発者の間の認識を共有し、</p>
+<p>関係者全員が共通のペルソナがあることでコミュニケーションを深めます。</p>
+<p>また、アプリケーションの開発者は、それを使用するエンドユーザーから直接学ぶことができるなど、</p>
+<p>ユーザーと開発者の距離が近くなり、</p>
+<p>ユーザーを中心に考えて、問題点などを特定でき、</p>
+<p>改善と最適化の基盤を形成することができます。</p>
+<h2 id="どうやっておこなうか" tabindex="-1"><a class="header-anchor" href="#どうやっておこなうか" aria-hidden="true">#</a> どうやっておこなうか</h2>
+<h3 id="必要なもの" tabindex="-1"><a class="header-anchor" href="#必要なもの" aria-hidden="true">#</a> 必要なもの</h3>
+<ul>
+<li>ホワイトボード</li>
+<li>ホワイトボードマーカー</li>
+<li>付箋</li>
+<li>マーカー</li>
+</ul>
+<h3 id="やり方" tabindex="-1"><a class="header-anchor" href="#やり方" aria-hidden="true">#</a> やり方</h3>
+<img src="/empathy-mapping.jpg" alt="Image of Empathy Mapping" width="400"/>
+<p>上記の図の各項目について埋めていきます。</p>
+<p>ユーザーインタビューをしていなければ、</p>
+<p>想定するユーザの</p>
+<p>考えていること、</p>
+<p>感じていること、</p>
+<p>見ていること、</p>
+<p>言っていること、</p>
+<p>聞いていること、</p>
+<p>していることを書いていきます。</p>
+<p>インタビューをしているのであれば、その結果を反映します。</p>
+<p>作成例：</p>
+<img src="/empathy-mapping2.jpg" alt="Image of Empathy Mapping" width="400"/>
+<h2 id="参考資料" tabindex="-1"><a class="header-anchor" href="#参考資料" aria-hidden="true">#</a> 参考資料</h2>
+<ul>
+<li><a href="https://openpracticelibrary.com/practice/empathy-mapping/" target="_blank" rel="noopener noreferrer">Empathy Mapping<ExternalLinkIcon/></a></li>
+</ul>
+<h2 id="さいごに" tabindex="-1"><a class="header-anchor" href="#さいごに" aria-hidden="true">#</a> さいごに</h2>
+<p>文章の改善のため、フィードバックや質問などありましたら、<a href="https://forms.gle/TKUJ2Gs9EoH2jQvp7" target="_blank" rel="noopener noreferrer">こちら<ExternalLinkIcon/></a>からお願いいたします。</p>
+</div></template>
+
+

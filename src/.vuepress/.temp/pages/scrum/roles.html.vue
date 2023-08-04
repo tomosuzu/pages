@@ -1,0 +1,31 @@
+<template><div><h1 id="scrum-roles" tabindex="-1"><a class="header-anchor" href="#scrum-roles" aria-hidden="true">#</a> Scrum Roles</h1>
+<h3 id="なぜ役割を明確にするのか" tabindex="-1"><a class="header-anchor" href="#なぜ役割を明確にするのか" aria-hidden="true">#</a> なぜ役割を明確にするのか</h3>
+<h3 id="product-owner" tabindex="-1"><a class="header-anchor" href="#product-owner" aria-hidden="true">#</a> Product Owner</h3>
+<ul>
+<li>役割</li>
+</ul>
+<p>プロダクトバックログの作成、修正、優先順位づけ</p>
+<ul>
+<li>プランニング#1の主役</li>
+</ul>
+<h3 id="scrum-master" tabindex="-1"><a class="header-anchor" href="#scrum-master" aria-hidden="true">#</a> Scrum Master</h3>
+<ul>
+<li>周りのサポート得てください</li>
+</ul>
+<p>今からスクラムを始める場合、いきなり組織全体に適用はしないでしょう</p>
+<ul>
+<li>順調に進んでいるチームであっても、順調ということ自体が課題になり得るという観点を忘れないでください。</li>
+</ul>
+<p>人は飽きるものです。</p>
+<h3 id="team" tabindex="-1"><a class="header-anchor" href="#team" aria-hidden="true">#</a> Team</h3>
+<h2 id="scrum-ceremonies" tabindex="-1"><a class="header-anchor" href="#scrum-ceremonies" aria-hidden="true">#</a> Scrum Ceremonies</h2>
+<h3 id="sprint" tabindex="-1"><a class="header-anchor" href="#sprint" aria-hidden="true">#</a> Sprint</h3>
+<h3 id="planning-1" tabindex="-1"><a class="header-anchor" href="#planning-1" aria-hidden="true">#</a> Planning#1</h3>
+<h3 id="planning-2" tabindex="-1"><a class="header-anchor" href="#planning-2" aria-hidden="true">#</a> Planning#2</h3>
+<h3 id="sprint-retrospectives" tabindex="-1"><a class="header-anchor" href="#sprint-retrospectives" aria-hidden="true">#</a> Sprint Retrospectives</h3>
+<h3 id="sprint-review" tabindex="-1"><a class="header-anchor" href="#sprint-review" aria-hidden="true">#</a> Sprint Review</h3>
+<h3 id="daily-scrum" tabindex="-1"><a class="header-anchor" href="#daily-scrum" aria-hidden="true">#</a> Daily Scrum</h3>
+<h2 id="artifacts" tabindex="-1"><a class="header-anchor" href="#artifacts" aria-hidden="true">#</a> Artifacts</h2>
+</div></template>
+
+
