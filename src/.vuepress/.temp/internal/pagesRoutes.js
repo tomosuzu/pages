@@ -25,9 +25,9 @@ export const pagesRoutes = [
   ["v-d8f9dd24","/scrum/",{"title":"スクラムの教科書"},["/scrum/README.md"]],
   ["v-d3d1c1ea","/scrum/ceremonies.html",{"title":"スクラムのセレモニー"},[":md"]],
   ["v-0112002a","/scrum/roles.html",{"title":"Scrum Roles"},[":md"]],
-  ["v-4959e9f3","/blog/2019/JobsToBeDone1.html",{"title":"ジョブ理論に関する考察その１"},[":md"]],
   ["v-32f72ebc","/blog/2020/JobsToBeDone2.html",{"title":"ジョブ理論に関する考察その２"},[":md"]],
   ["v-1292e632","/blog/2020/%E3%81%82%E3%81%A4%E3%82%82%E3%82%8A.html",{"title":"「あつまれ どうぶつの森」で学ぶプランニングについて"},["/blog/2020/あつもり.html","/blog/2020/あつもり.md",":md"]],
   ["v-0fe39d3e","/blog/2020/%E3%82%B3%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6.html",{"title":"コーチングのすべてのレビュー"},["/blog/2020/コーチングのすべて.html","/blog/2020/コーチングのすべて.md",":md"]],
+  ["v-4959e9f3","/blog/2019/JobsToBeDone1.html",{"title":"ジョブ理論に関する考察その１"},[":md"]],
   ["v-3706649a","/404.html",{"title":""},[]],
 ]
