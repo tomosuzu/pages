@@ -5,8 +5,6 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/index.html.vue")),
   // path: /about/
   "v-74bc627b": defineAsyncComponent(() => import(/* webpackChunkName: "v-74bc627b" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/about/index.html.vue")),
-  // path: /blog/
-  "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /practices/
   "v-53f47c50": defineAsyncComponent(() => import(/* webpackChunkName: "v-53f47c50" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/practices/index.html.vue")),
   // path: /practices/backlog-refinement.html
@@ -47,6 +45,8 @@ export const pagesComponents = {
   "v-3c828a2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c828a2c" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/practices/value-stream-process-mapping.html.vue")),
   // path: /practices/visualisation-of-work.html
   "v-287dbbf8": defineAsyncComponent(() => import(/* webpackChunkName: "v-287dbbf8" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/practices/visualisation-of-work.html.vue")),
+  // path: /blog/
+  "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /scrum/
   "v-d8f9dd24": defineAsyncComponent(() => import(/* webpackChunkName: "v-d8f9dd24" */"/Users/tomoyasuzuki/git/pages/src/.vuepress/.temp/pages/scrum/index.html.vue")),
   // path: /scrum/ceremonies.html
