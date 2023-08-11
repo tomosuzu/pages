@@ -10,8 +10,7 @@ git restore docs/CNAME
 git add .
 
 # コミット
-read -p "Enter commit message: " commit_message
-git commit -m "$commit_message"
+git commit -m "update"
 
 # リモートリポジトリにプッシュ
 git push
