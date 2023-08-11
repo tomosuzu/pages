@@ -1,4 +1,5 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 module.exports = {
   title: 'tomosuzu\'s pages',
