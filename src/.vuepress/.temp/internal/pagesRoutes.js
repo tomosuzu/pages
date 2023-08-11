@@ -1,6 +1,7 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"tomosuzu's pages"},["/README.md"]],
   ["v-74bc627b","/about/",{"title":"当サイトについて"},["/about/README.md"]],
+  ["v-145ac574","/blog/",{"title":"雑記"},["/blog/README.md"]],
   ["v-53f47c50","/practices/",{"title":"プラクティス一覧について"},["/practices/README.md"]],
   ["v-70e7bf4e","/practices/backlog-refinement.html",{"title":"バックログ・リファイメント"},[":md"]],
   ["v-59517112","/practices/continuous-delivery.html",{"title":"継続的デリバリー"},[":md"]],
@@ -21,7 +22,6 @@ export const pagesRoutes = [
   ["v-6acca595","/practices/user-story-mapping.html",{"title":"ユーザーストーリーマッピング"},[":md"]],
   ["v-3c828a2c","/practices/value-stream-process-mapping.html",{"title":"バリューストリーム・プロセスマッピング"},[":md"]],
   ["v-287dbbf8","/practices/visualisation-of-work.html",{"title":"作業の可視化"},[":md"]],
-  ["v-145ac574","/blog/",{"title":"雑記"},["/blog/README.md"]],
   ["v-d8f9dd24","/scrum/",{"title":"スクラムの教科書"},["/scrum/README.md"]],
   ["v-d3d1c1ea","/scrum/ceremonies.html",{"title":"スクラムのセレモニー"},[":md"]],
   ["v-0112002a","/scrum/roles.html",{"title":"Scrum Roles"},[":md"]],

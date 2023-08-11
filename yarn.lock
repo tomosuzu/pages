@@ -637,7 +637,7 @@
     "@vuepress/utils" "2.0.0-beta.66"
     execa "^7.1.1"
 
-"@vuepress/plugin-google-analytics@^1.0.2":
+"@vuepress/plugin-google-analytics@^1.9.9":
   version "1.9.9"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.9.9.tgz#78805e7d9a376667adff3ddd0986badfeb2a480f"
   dependencies:
